@@ -119,7 +119,6 @@
                 <q-icon name="work.outline"></q-icon>
               </template>
             </q-input>
-
             <q-input
               outlined
               dense
